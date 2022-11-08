@@ -53,4 +53,4 @@ response:
     ]
 }
 
-# PD: There is also a video explaining the code (explainingVideo.mp4)
+# PD: There is also a video explaining the code (video-summary.mp4)
